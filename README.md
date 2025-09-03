@@ -1,3 +1,3 @@
 # Raj-repository1
-This repository in a Ai agent my first 
-Rajkumar Meena
+This is my frist repository in a Ai agent  
+auther - Rajkumar Meena
